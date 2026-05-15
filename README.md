@@ -2,18 +2,19 @@
 
 ### 🦷 Former Dentist & Researcher ➡️ 💻 Fullstack .NET Developer Student
 
-I traded the dental drill for a keyboard and replaced *"open wide"* with *"it works on my machine."* After earning a PhD in Endodontics and realizing my favorite part of research was data analysis, I decided to dive headfirst into software development. I thrive on breaking complex problems down into logical, structured solutions.
-
+I traded the dental drill for a keyboard and replaced *"open wide"* with *"it works on my machine."* 
 ---
 
 ### 🛠️ My Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
-| **Backend** | C#, .NET Core, ASP.NET Web API, Entity Framework |
-| **Frontend** | JavaScript, React, HTML5, CSS3, Responsive Design |
-| **Databases** | MS SQL Server, PostgreSQL, Database Design |
-| **Tools & DevOps** | Git, GitHub, Agile/Scrum, Architecture Patterns |
+| **Languages** |**C#**, **JavaScript (ES6+)**, SQL, HTML5, CSS3 |
+| **Backend** | **.NET 9**, ASP.NET Core, RESTful APIs, Microservices, Entity Framework |
+| **Frontend** | React, Node.js, Responsive Design, Asynchronous JS |
+| **Databases** | **MS SQL Server**, SQLite, Database Design & CRUD |
+| **Testing & DevOps** | xUnit, Jest, Git/GitHub, Docker, CI/CD (GitHub Actions) |
+| **Methodologies** | Agile/Scrum, OOP, TDD, Technical Documentation |
 
 ---
 
