@@ -26,7 +26,6 @@ I am currently looking for **Fullstack .NET Internship (LIA)** opportunities whe
 *   💼 **LinkedIn:** [linkedin.com/in/handebengu](https://linkedin.com/in/handebengu/)
 *   🌍 **Portfolio:** [handecodes.github.io/PortfolioPage](https://handecodes.github.io/PortfolioPage/)
 
-*"Zero regrets. The teeth can find someone else."* 😉
 <!--
 **handecodes/handecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
