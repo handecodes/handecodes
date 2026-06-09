@@ -1,8 +1,6 @@
-# Hi there, I'm Hande! 👋 
+# Hi there, I'm Hande!
 
 ### 🦷 Former Dentist & Researcher ➡️ 💻 Fullstack .NET Developer Student
-
-I traded the dental drill for a keyboard and replaced *"open wide"* with *"it works on my machine."* 
 ---
 
 ### 🛠️ My Tech Stack
