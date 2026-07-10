@@ -19,8 +19,6 @@
 
 ### 🤝 Let's Connect!
 
-I am currently looking for **Fullstack .NET Internship (LIA)** opportunities where I can contribute to real-world projects and learn from experienced teams.
-
 *   💼 **LinkedIn:** [linkedin.com/in/handebengu](https://linkedin.com/in/handebengu/)
 *   🌍 **Portfolio:** [handecodes.github.io/PortfolioPage](https://handecodes.github.io/PortfolioPage/)
 
