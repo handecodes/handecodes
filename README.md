@@ -1,9 +1,9 @@
-# Hi there, I'm Hande!
+# Me Hande! Me code! 
 
-### 🦷 Former Dentist & Researcher ➡️ 💻 Fullstack .NET Developer Student
+### Fullstack .NET Developer Student
 ---
 
-### 🛠️ My Tech Stack
+### Tech Stack
 
 | Category | Technologies |
 | :--- | :--- |
@@ -17,7 +17,7 @@
 ---
 
 
-### 🤝 Let's Connect!
+### I exist in these places too btw;
 
 *   💼 **LinkedIn:** [linkedin.com/in/handebengu](https://linkedin.com/in/handebengu/)
 *   🌍 **Portfolio:** [handecodes.github.io/PortfolioPage](https://handecodes.github.io/PortfolioPage/)
