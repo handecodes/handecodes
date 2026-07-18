@@ -19,8 +19,8 @@
 
 ### I exist in these places too btw;
 
-*   💼 **LinkedIn:** [linkedin.com/in/handebengu](https://linkedin.com/in/handebengu/)
-*   🌍 **Portfolio:** [handecodes.github.io/PortfolioPage](https://handecodes.github.io/PortfolioPage/)
+*    **LinkedIn:** [linkedin.com/in/handebengu](https://linkedin.com/in/handebengu/)
+*    **Portfolio:** [handecodes.github.io/PortfolioPage](https://handecodes.github.io/PortfolioPage/)
 
 <!--
 **handecodes/handecodes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
